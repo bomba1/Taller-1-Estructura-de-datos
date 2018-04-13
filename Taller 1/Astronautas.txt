@@ -1,0 +1,9 @@
+8
+Neil Armstrong,41,22
+Buzz Aldrin,45,19,Apollo
+Michael Collins,38,17
+Ford,28,10,Gold
+Pete,34,8
+Arthur,26,3,Gold
+Mark,42,15
+Komarov,40,12
